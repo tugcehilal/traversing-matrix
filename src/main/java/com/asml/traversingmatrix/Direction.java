@@ -1,5 +1,5 @@
 package com.asml.traversingmatrix;
-
+//test
 public enum Direction {
     LEFT_TO_RIGHT(0),
     RIGHT_TO_BOTTOM(1),
